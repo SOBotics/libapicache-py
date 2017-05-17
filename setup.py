@@ -4,7 +4,7 @@ from distutils.core import setup
 setup(
     name='libapicache',
     packages=['libapicache'],
-    version='0.0.1',
+    version='0.0.3',
     description='Python interface library for APICache (https://github.com/SOBotics/apicache)',
     author='ArtOfCode',
     author_email='art@artofcode.co.uk',
